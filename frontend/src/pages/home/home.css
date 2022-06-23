@@ -1,0 +1,19 @@
+.buttons{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+}
+
+.buttons div{
+  margin: 1rem;
+}
+
+.container{
+    /* display: grid;
+    grid-template-columns: 1.5fr 1fr; */
+    background-image: url('../../assets/gestao.png');
+    background-size: cover;
+    height: 90vh;
+    zoom: 1.11 !important;
+}
