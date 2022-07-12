@@ -1,0 +1,39 @@
+.sidebar {
+    position:relative;
+    float: left;
+    border-width:2px;
+    width: 17%;
+    height: 98vh;
+    background: linear-gradient(#24656e, #91e5d3);  
+
+ }
+
+ li{
+    background-color: #24656e;
+    box-shadow: #cecece 1px 1px 1px 1px;
+    list-style: none;
+    list-style-type: none;
+    cursor: pointer; 
+    width: 92%;
+    height: 2rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 7px;
+    padding-left: 15px;
+ }
+
+ul{
+    margin-left: 3px;
+    padding: 0;
+}
+
+.sidebar li:hover {
+    background: #b1abae;
+  
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

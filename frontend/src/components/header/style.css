@@ -1,0 +1,25 @@
+.Cabecalho{
+    background: #24506e;
+    display: flex;
+    justify-content: left;
+    padding-right: 15px;
+    margin-bottom: 1px;
+    height: 49px;
+    justify-content: space-between;
+    border-radius: 1px;
+
+}
+
+header svg{
+    margin-top: 8px;
+}
+
+h3{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    padding-left: 1rem;
+    color: #fff;
+    font-family: 'Nova Square', sans-serif;
+}

@@ -1,0 +1,10 @@
+.geral{
+    background-color: rgb(255, 255, 255);
+    width: 71%;
+    height: 34rem;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 21rem;
+
+}

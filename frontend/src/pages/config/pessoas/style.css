@@ -1,0 +1,24 @@
+.geral{
+    background-color: rgb(255, 255, 255);
+    width: 78%;
+    height: 53rem;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 23rem;
+
+}
+
+.geral input {
+    width: 18rem;
+    height: 20px;
+    margin-top: 6rem;
+    margin-left: 40px;
+}
+
+.geral button {
+    width: 8rem;
+    height: 26px;
+    margin-top: 6rem;
+
+}
